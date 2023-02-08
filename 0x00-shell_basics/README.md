@@ -1,0 +1,1 @@
+This a script for print the absolut path to the current working directory.
