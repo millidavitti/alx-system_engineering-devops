@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 --format=commas .[^.]* * | sort -t, -k1.1,1.2 | tr '\n' ',' | sed 's/,$/\n/'
+ls -all --format=commas
