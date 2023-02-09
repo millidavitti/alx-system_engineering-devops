@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --preserve-root 644
+chmod 644 | chmod 755 dir --directory
