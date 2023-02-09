@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 644 --recursive --preserve-root .
+chmod 644 --preserve-root .
