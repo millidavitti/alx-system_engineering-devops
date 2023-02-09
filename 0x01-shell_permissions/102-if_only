@@ -1,0 +1,3 @@
+#!/bin/bash
+if [id -n = "guillaume"];then chown betty hello; fi
+			      
