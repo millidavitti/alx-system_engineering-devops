@@ -1,2 +1,0 @@
-#!/bin/bash
-l -all --format=commas | sort -k0,1
