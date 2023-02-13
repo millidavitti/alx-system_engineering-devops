@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type df -depth -empty -printf \n
