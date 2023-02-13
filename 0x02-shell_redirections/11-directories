@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la | grep '^d' | grep -v '^\.\{1,2\}$' | wc -l
+file -f *.js | rm *.js
