@@ -1,2 +1,2 @@
 #!/bin/bash
-file -f *.js | rm *.js
+ls | wc -l
